@@ -3,8 +3,8 @@
     "description": "Laravel Natural Where extends the Laravel query builder to allow expressing of where operators in natural language.",
     "type": "library",
     "require": {
-        "php": ">=7.1",
-        "laravel/framework": "^5.6||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0||^12.0"
+        "php": ">=7.1||>=8.0",
+        "laravel/framework": "^5.6||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0||^12.0||^13.0"
     },
     "license": "LGPL-3.0-only",
     "authors": [
